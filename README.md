@@ -1,0 +1,2 @@
+# pyseq
+Python sequencer
