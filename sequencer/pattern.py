@@ -1,6 +1,6 @@
 class Pattern():
 
-	def __init__(self, lenght=32):
+	def __init__(self, lenght=16):
 		self.steps = []
 		self.set_lenght(lenght)
 		print(self.steps)
