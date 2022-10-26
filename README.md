@@ -1,4 +1,8 @@
 # pyseq
 Python sequencer
 
-run - python3 pyseq.py
+* setup
+pip3 install simpleaudio
+
+* run
+python3 pyseq.py
